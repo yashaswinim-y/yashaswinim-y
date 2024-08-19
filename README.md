@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Tosca and Playwright Automation.<br>Checkout my resume here- <br>Ask me about Tosca and Karate scripting(tools)<br>Reach out to me at yashugowda402@gmail.com
+I'm currently working on Tosca and Playwright Automation.<br>Checkout my resume here- Yashaswini M Y_ Automation Tester.pdf<br>Ask me about Tosca and Karate scripting(tools)<br>Reach out to me at yashugowda402@gmail.com
 
 
 ## 🌐 Socials:
