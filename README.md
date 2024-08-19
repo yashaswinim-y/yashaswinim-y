@@ -1,5 +1,5 @@
 # 💫 About Me:
-ul.a{I'm currently working on Tosca and Playwright Automation.}<br>ul.b{Checkout my resume here- }<br>ul.c{Ask me about Tosca and Karate scripting(tools)}<br>ul.d{Reach out to me at yashugowda402@gmail.com}
+I'm currently working on Tosca and Playwright Automation.<br>Checkout my resume here- <br>Ask me about Tosca and Karate scripting(tools)<br>Reach out to me at yashugowda402@gmail.com
 
 
 ## 🌐 Socials:
