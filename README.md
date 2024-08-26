@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **yashugowda402@gmail.com**
 
+- 🤝 Collaborations: Open to collaborating on interesting and impactful projects.
+
 - 📄 Check my resume here [https://drive.google.com/file/d/1bNvTSC91HxZ9n3XWdwctBG8dOSQXWoRU/view?usp=drivesdk](https://drive.google.com/file/d/1bNvTSC91HxZ9n3XWdwctBG8dOSQXWoRU/view?usp=drivesdk)
   
 ## 🌐 Socials:
