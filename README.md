@@ -15,9 +15,7 @@
 - 📫 How to reach me **yashugowda402@gmail.com**
 
 - 📄 Check my resume here [https://drive.google.com/file/d/1bNvTSC91HxZ9n3XWdwctBG8dOSQXWoRU/view?usp=drivesdk](https://drive.google.com/file/d/1bNvTSC91HxZ9n3XWdwctBG8dOSQXWoRU/view?usp=drivesdk)
-- <h3 align="left">Languages and Tools: Java,Playwright,Tosca,Selenium,Karate</h3>
-
-
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yashaswini-ma387391bb) 
 
