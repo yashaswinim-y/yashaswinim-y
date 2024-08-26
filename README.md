@@ -1,5 +1,21 @@
 # 💫 About Me:
-I'm currently working on Tosca and Playwright Automation.<br>Ask me about Tosca and Karate scripting(tools)<br>Reach out to me at yashugowda402@gmail.com
+<h1 align="center">Hi 👋, I'm Yashaswini M Y</h1>
+<h3 align="center">A passionate Automation Tester from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashaswinim-y&label=Profile%20views&color=0e75b6&style=flat" alt="yashaswinim-y" /> </p>
+
+- 🔭 I’m currently working on **Playwright using Typescript**
+
+- 🌱 I’m currently learning **Playwright using Typescript in higher level**
+
+- 👨‍💻 All of my projects are available at [https://github.com/yashaswinim-y](https://github.com/yashaswinim-y)
+
+- 💬 Ask me about **Tosca, Karate, Playwright tools**
+
+- 📫 How to reach me **yashugowda402@gmail.com**
+
+- 📄 Check my resume here [https://drive.google.com/file/d/1bNvTSC91HxZ9n3XWdwctBG8dOSQXWoRU/view?usp=drivesdk](https://drive.google.com/file/d/1bNvTSC91HxZ9n3XWdwctBG8dOSQXWoRU/view?usp=drivesdk)
+- <h3 align="left">Languages and Tools: Java,Playwright,Tosca,Selenium,Karate</h3>
 
 
 ## 🌐 Socials:
